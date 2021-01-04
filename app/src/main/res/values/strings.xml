@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Two Fragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello first fragment</string>
+    <string name="increament">Increament</string>
+    <string name="hello">hello</string>
+</resources>
